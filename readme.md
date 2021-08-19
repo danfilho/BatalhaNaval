@@ -1,0 +1,1 @@
+Jogo de batalha naval criado em C++ para ser jogado entre máquinas conectadas a mesma rede de internet. O programa foi construído utilizando programação orientada a objetos, e a conexão foi realizada utilizando sockets. 
